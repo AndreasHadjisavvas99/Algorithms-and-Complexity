@@ -1,7 +1,8 @@
 Written and programming excercises for the algorithms course - NTUA
+
 This repository contains my solutions for the assignments of the algorithms course in NTUA for the winter semeseter 2022-2023. The course material for the specific academic year included among others the following:
 
-Asymptotic estimation of computational complexity.
+-Asymptotic estimation of computational complexity.
 Asymptotic Notation
 Divide-and-Conquer Algorithms
 Closest pair of points.
